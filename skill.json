@@ -1,0 +1,14 @@
+{
+  "name": "genpark-lsm-tree-sstable-compactor-skill",
+  "version": "1.0.0",
+  "description": "Log-Structured Merge Tree (LSM-Tree) engine with in-memory skip-list memtable, immutable SSTable flushes, and leveled compaction.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "lsm-tree",
+    "sstable",
+    "storage-engine",
+    "compaction",
+    "database-internals"
+  ]
+}
